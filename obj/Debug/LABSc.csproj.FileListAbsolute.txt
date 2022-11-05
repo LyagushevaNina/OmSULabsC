@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LABScSHARP001\bin\Debug\LABScSHARP001.exe.config
+C:\Users\User\source\repos\LABScSHARP001\bin\Debug\LABScSHARP001.exe
+C:\Users\User\source\repos\LABScSHARP001\bin\Debug\LABScSHARP001.pdb
+C:\Users\User\source\repos\LABScSHARP001\obj\Debug\LABSc.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LABScSHARP001\obj\Debug\LABSc.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LABScSHARP001\obj\Debug\LABScSHARP001.exe
+C:\Users\User\source\repos\LABScSHARP001\obj\Debug\LABScSHARP001.pdb
+C:\Users\User\Desktop\C#nina\bin\Debug\LABScSHARP001.exe.config
+C:\Users\User\Desktop\C#nina\bin\Debug\LABScSHARP001.exe
+C:\Users\User\Desktop\C#nina\bin\Debug\LABScSHARP001.pdb
+C:\Users\User\Desktop\C#nina\obj\Debug\LABSc.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#nina\obj\Debug\LABSc.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#nina\obj\Debug\LABScSHARP001.exe
+C:\Users\User\Desktop\C#nina\obj\Debug\LABScSHARP001.pdb
